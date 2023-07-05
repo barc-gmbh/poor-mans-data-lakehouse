@@ -5,4 +5,5 @@ basic technology of making a bunch of data files accessible for querying.
 
 Folder **data** acts as a data table and can contain multiple folders, subfolder and files (ideally all with the same structure). For simplicity and fact cloning, only 2 few larger files have been added.
 
+
 Enjoy...
